@@ -1,8 +1,0 @@
-{
-"extends": "@tsconfig/node16/tsconfig.json",
-"compilerOptions": {
-"outDir": "dist"
-},
-"include": ["src", "src/db/index.ts"],
-"exclude": ["node_modules"]
-}
